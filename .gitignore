@@ -1,4 +1,10 @@
 node_modules/
 dist/
 .astro/
+<<<<<<< HEAD
 .env
+=======
+.env
+data/
+data/*
+>>>>>>> cd4600e1269ed11cc431c2c4c4e72d8bb52ab8fd
